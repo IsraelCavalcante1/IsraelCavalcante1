@@ -1,4 +1,3 @@
-&hide=javascript,html
 ## Olá, eu sou o Leo e estou em meu segundo semestre de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/IsraelCavalcante1">
