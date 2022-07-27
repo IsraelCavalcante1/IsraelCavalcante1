@@ -1,4 +1,4 @@
-## Olá, eu sou o Leo e estou em meu segundo semestre de Análise e Desenvolvimento de Sistemas
+## Olá, eu sou o Leo e estou em meu terceiro semestre de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/IsraelCavalcante1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelCavalcante1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
